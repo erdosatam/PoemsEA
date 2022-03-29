@@ -1,4 +1,4 @@
-# Rozsdés kampó
+# Rozsdás kampó
 
 ```
 
