@@ -1,5 +1,5 @@
 # Rozsdás kampó
-
+`(c) 2005, Erdős`
 ```
 
 Nem vagyok öntapadó akasztó,

@@ -1,5 +1,5 @@
 # Kéne
-
+`(c) 2021 Erdős`
 ```
 Aludni kéne, de nem tudok,
 bennakadnak a tegnapok,

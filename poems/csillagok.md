@@ -1,5 +1,5 @@
 # Csillagok
-
+`(c) 2019, Erdős`
 ```
 Az ágyon ülök
 a múlt tüskéivel
