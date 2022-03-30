@@ -21,7 +21,7 @@ Barátja minden ajtó.
 Ha megharagszik,
 már nem nyitható.
 
-Halált hozó  kopása.
+Halált hozó a kopása.
 Ha a szobádon élt, hát -
 ott maradsz Te bezárva.
 ```

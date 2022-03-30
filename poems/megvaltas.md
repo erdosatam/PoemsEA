@@ -4,6 +4,6 @@
 ```
 Magányos gyertyának
 öltözött az éjjel,
-Véres tükör orcája.
+véres tükör orcája.
 Ő már tudta mi lesz reggel.
 ```
