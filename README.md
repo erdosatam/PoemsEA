@@ -11,3 +11,7 @@
 - [A miénk](poems/amienk.md)
 - [A kilincs](poems/akilincs.md)
 - [Feltámadás](poems/feltamadas.md)
+- [Engedem](poems/engedem.md)
+- [Véletlenül](poems/veletlenul.md)
+- [Visszatekintés](poems/visszatekintes.md)
+- [Árnyékom](poems/arnyekom.md)
