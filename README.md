@@ -18,3 +18,5 @@
 - [Jövő-kígyó menedék](poems/jovokigyo.md)
 - [A kertben](poems/akertben.md)
 - [Álom](poems/alom.md)
+- [Kérdések](poems/kerdesek.md)
+- [Én egyedüllétem](poems/enegyedulletem.md)
