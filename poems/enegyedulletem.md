@@ -3,9 +3,9 @@
 
 ```
 Előzékeny árnyékomban,
-ott az összes álmom.
-minden pillanata sötét,
-majd ajtót csuk mögöttem
+ott az összes álmom
+mindegyik magányban ér.
+Majd ajtót csuk mögöttem
 az egyedüllét.
 
 ```
