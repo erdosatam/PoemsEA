@@ -4,7 +4,7 @@
 ```
 Előzékeny árnyékomban,
 ott az összes álmom
-mindegyik magányban ér.
+magányban ér.
 Majd ajtót csuk mögöttem
 az egyedüllét.
 
