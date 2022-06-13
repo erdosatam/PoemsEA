@@ -1,4 +1,4 @@
-# Csigiszünet
+# Cigiszünet
 `(c) 2022 Erdos`
 
 ```
