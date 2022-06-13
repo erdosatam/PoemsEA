@@ -19,8 +19,6 @@ Majd újra, belépve a házba, meglelem csontjaim,
 s mint betévedt légy kering
 szoba sarkából a lusta szeretet.
 
-Így megy ez minden nap, 
-
 
 
 ```
