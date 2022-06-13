@@ -12,10 +12,8 @@ mennyi kétely fog nyakon
 és enged el ahogy nyel a torkom.
 A füst halucinogén állapotában
 fújom összes betegségem az űrbe.
-
-
-
-
+utolsó lehelet, ha végleg elég,
+veszek még egyet.
 Majd újra, belép, megleli csontjait,
 épül lassan a váz, erezet
 s mint betévedt légy kering
