@@ -14,7 +14,7 @@ A füst halucinogén állapotában
 fújom összes betegségem az űrbe.
 utolsó lehelet, ha végleg elég,
 veszek még egyet.
-Majd újra, belép, megleli csontjait,
+Majd újra, belépve a házba, meglelem csontjaim,
 épül lassan a váz, erezet
 s mint betévedt légy kering
 szoba sarkából a lusta szeretet.
