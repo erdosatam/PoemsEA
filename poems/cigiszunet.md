@@ -17,7 +17,4 @@ Csontjaimra lelek a házban újra,
 épül lassan a váz, erezet.
 Mint betévedt légy kering
 szoba sarkából a lusta szeretet.
-
-
-
 ```
