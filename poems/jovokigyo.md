@@ -6,7 +6,7 @@ Nézz a Holdba
 külön poklot jár az óra.
 A múltba leskelődöm vissza
 jelenben élet-poharam
-kiivott oázis.
+egy kiivott oázis.
 Szemem a Napban
 tágul és lobban
 óriáskígyó-jövő
@@ -22,7 +22,7 @@ Forr.
 Kínozza ezt az ember-állatot.
 Magam, s magad,
 ordítsd el magad!
-Ne fojtsd el,
+Ne fojtsd el!
 Kiabálj!
 Bele a budapesti éjbe
 bele, a lélekbe
