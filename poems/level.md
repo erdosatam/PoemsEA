@@ -8,8 +8,8 @@ hozzád térdelek.
 
 Levélben írom
 mindent engedek
-amilyen voltál,
-úgy szerettelek.
+amilyen vagy,
+úgy szeretlek.
 
 Levelet írok
 a mindenek felett
@@ -19,7 +19,7 @@ hozzád térdelek.
 Levélben írnám,
 minden vétkemet,
 a fiókban tartom,
-a senki lássa meg.
+senki ne lássa meg.
 
 Levelet írok
 a mindenek felett
