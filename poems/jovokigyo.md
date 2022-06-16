@@ -25,11 +25,9 @@ ordítsd el magad!
 Ne fojtsd el!
 Kiabálj!
 Bele a budapesti éjbe
-bele, a lélekbe
-bele, az elfojtott haragodba
+bele, a egekbe az elfojtott haragod
 bele, a saját kígyóketrecedbe
 bele, a tudat-hasadékodba
-bele, a pénz-elvekbe
 bele, bele, bele!
 Mígnem azt nem hallod
 elég, amíg mélyről nem jön
