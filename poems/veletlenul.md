@@ -19,7 +19,7 @@ ha halni kell?
 
 Mi lesz, ha a véletlenről,
 kiderül, hogy nincsen?
-Már látom is ahogyan
+Már látom is, ahogyan
 koldul.
 
 Mi lesz majd a halállal,
