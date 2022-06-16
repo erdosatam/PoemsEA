@@ -8,8 +8,8 @@ A múltba leskelődöm vissza
 jelenben élet-poharam
 egy kiivott oázis.
 Szemem a Napban
-tágul és lobban
-óriáskígyó-jövő
+tágul majd lobban
+óriáskígyóként a jövő
 szorítja torkom halkan.
 Ki lenne az, ki felnevelné
 azt a kínos fekélyt
