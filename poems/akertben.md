@@ -30,7 +30,7 @@ Festi éppen itt
 De hiába minden 
 Sziszegő szó
 A gonosz arcán
-Úszik a Sár golyó.
+Úszó sárgolyó.
 
 Tűz fényében
 Ébred a tucat
