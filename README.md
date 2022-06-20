@@ -22,3 +22,4 @@
 - [Én egyedüllétem](poems/enegyedulletem.md)
 - [Itt vagyok](poems/ittvagyok.md)
 - [Cigiszünet](poems/cigiszunet.md)
+- [Kifosztottan](poems/kifosztottan.md)
