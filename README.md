@@ -20,7 +20,7 @@
 - [Álom](poems/alom.md)
 - [Kérdések](poems/kerdesek.md)
 - [Én egyedüllétem](poems/enegyedulletem.md)
-- [Itt vagyok](poems/ittvagyok.md)
+- [Itt vagyok, Anyám](poems/ittvagyok.md)
 - [Cigiszünet](poems/cigiszunet.md)
 - [Kifosztottan](poems/kifosztottan.md)
 - [Kozmikus, vagy komikus](poems/kozmikusvagykomikus.md)
