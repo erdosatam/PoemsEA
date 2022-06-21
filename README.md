@@ -23,3 +23,4 @@
 - [Itt vagyok](poems/ittvagyok.md)
 - [Cigiszünet](poems/cigiszunet.md)
 - [Kifosztottan](poems/kifosztottan.md)
+- [Kozmikus, vagy komikus](poems/kozmikusvagykomikus.md)
