@@ -3,12 +3,12 @@
 
 ```
 Váratlan gondolatok jönnek
-Mise-ücsörgés közben.
+mise-ücsörgés közben.
 Mind lassan bólintják fejemet
 szép, vagy sivár gyermek-emlékben.
 
-Egy év, ezer tett
-Hasznos voltam, hasztalan
+Ennyi év, ezer tett
+Hasznos voltam, hasztalan.
 Súlyos alap felett
 vádolom meg önmagam.
 
