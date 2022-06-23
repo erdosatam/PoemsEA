@@ -24,7 +24,4 @@
 - [Cigiszünet](poems/cigiszunet.md)
 - [Kifosztottan](poems/kifosztottan.md)
 - [Kozmikus, vagy komikus](poems/kozmikusvagykomikus.md)
-<<<<<<< HEAD
 - [Már vártalak](poems/marvartalak.md)
-=======
->>>>>>> 588fce68d8cd7ba15fc7406e02fc6295fb66271d
