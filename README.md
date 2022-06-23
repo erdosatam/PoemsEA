@@ -27,3 +27,4 @@
 - [Már vártalak](poems/marvartalak.md)
 - [Pipacs](poems/pipacs.md)
 - [Bűn](poems/bun.md)
+- [Nem könnyű](poems/nemkonnyu.md)
