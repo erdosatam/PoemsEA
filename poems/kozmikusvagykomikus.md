@@ -8,7 +8,7 @@ Mind lassan bólintják fejemet
 szép, vagy sivár gyermek-emlékben.
 
 Ennyi év, ezer tett
-Hasznos voltam, hasztalan.
+hasznos voltam, hasztalan.
 Súlyos alap felett
 vádolom meg önmagam.
 
