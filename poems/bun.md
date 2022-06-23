@@ -3,7 +3,7 @@
 
 ```
 Csábítóbb az alma, mint a kígyó
-a meztelenség már több kiló.
+a meztelenség immár több kiló.
 E nehezedés embert ér,
 erdő közepén vasbeton az ér.
 Ott vitorlázik mélytengeri álmunk.
