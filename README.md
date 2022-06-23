@@ -25,3 +25,5 @@
 - [Kifosztottan](poems/kifosztottan.md)
 - [Kozmikus, vagy komikus](poems/kozmikusvagykomikus.md)
 - [Már vártalak](poems/marvartalak.md)
+- [Pipacs](poems/pipacs.md)
+- [Bűn](poems/bun.md)
