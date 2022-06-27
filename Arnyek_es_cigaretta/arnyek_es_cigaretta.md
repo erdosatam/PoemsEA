@@ -547,7 +547,6 @@ a szerelem is az.
 Szóljon ki talál
 a kedvemből kiutat.
 
-
 Senki sem szól semmit,
 minden tök süket,
 megszoktam már azt is,
