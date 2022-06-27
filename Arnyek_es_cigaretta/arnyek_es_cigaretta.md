@@ -4,10 +4,10 @@
 <div style="page-break-after: always;"></div>  
 
 ## A kertben
-`(c) 2022, Erdős`
+`(c) 2022`
 
 ```
-Mint rettegő vad 
+Mint rettegő vad
 figyel minden itt,
 nehogy véletlen
 csatát nyerjen a hit.
@@ -32,7 +32,7 @@ a kígyó is
 Az ördög arcát
 Festi éppen itt
 
-De hiába minden 
+De hiába minden
 Sziszegő szó
 A gonosz arcán
 Úszó sárgolyó.
@@ -47,7 +47,7 @@ Megjöttek a vadak.
 <div style="page-break-after: always;"></div>  
 
 ## A kilincs
-`(c) 2005, Erdős`
+`(c) 2005`
 
 ```
 A kilincs -
@@ -94,7 +94,7 @@ végre.
 <div style="page-break-after: always;"></div>  
 
 ## Miénk
-`(c) 2020, Erdős`
+`(c) 2020`
 ```
 Hideg telünk volt
 - és tényleg -
@@ -105,7 +105,7 @@ ennyire a miénk.
 <div style="page-break-after: always;"></div>  
 
 ## Árnyékom
-`(c) 2020, Erdős`
+`(c) 2020`
 
 
 ```
@@ -122,7 +122,7 @@ az összes tévedésem.
 <div style="page-break-after: always;"></div>  
 
 ## Bűn
-`(c) 2016, Erdos` 
+`(c) 2016, Erdos`
 
 ```
 Csábítóbb az alma, mint a kígyó
@@ -143,15 +143,15 @@ Még a rigó is kirtizálja a létet, ennyi borúval a fejben.
 Mennyi kétely fog nyakon és enged el amint halad a torkon a füst,
 mit halucinogén állapotában fújok az űrbe.
 Utolsó lehelet a bűnben - ha végleg elég - kérek még egyet.
-Csontjaimra lelek, majd ha belépek a házba, 
-épüljön lassan a váz, az erezet. 
-Mint betévedt légy kering majd ott 
+Csontjaimra lelek, majd ha belépek a házba,
+épüljön lassan a váz, az erezet.
+Mint betévedt légy kering majd ott
 a szoba sarkából a lusta szeretet.
 ```
 <div style="page-break-after: always;"></div>  
 
 ## Csillagok
-`(c) 2019, Erdős`
+`(c) 2019`
 ```
 Az ágyon ülök
 a múlt tüskéivel
@@ -167,7 +167,7 @@ hogy majd' meghalok.
 <div style="page-break-after: always;"></div>  
 
 ## Démon
-`(c) 2021, Erdős`
+`(c) 2021`
 
 ```
 Már vasárnap is csütörtököt mondok,
@@ -213,7 +213,7 @@ az egyedüllét.
 <div style="page-break-after: always;"></div>  
 
 ## Engedem
-`(c) 2021, Erdős`
+`(c) 2021`
 
 ```
 Amit Te nem, én engedem,
@@ -239,7 +239,7 @@ amit én soha sem teszek?
 <div style="page-break-after: always;"></div>  
 
 ## Feltámadás
-`(c) 2019, Erdős`
+`(c) 2019`
 
 ```
 Kivirágzik a kín a fán
@@ -297,7 +297,7 @@ mert itt vagyok!
 <div style="page-break-after: always;"></div>  
 
 ## Jövő-kígyó menedék
-`(c) 2007, Erdős`
+`(c) 2007`
 
 ```
 Nézz a Holdba
@@ -417,7 +417,7 @@ ezer bolygó hever a keblemen.
 <div style="page-break-after: always;"></div>  
 
 ## Levél
-`(c) 2020, Erdős`
+`(c) 2020`
 ```
 Levelet írok
 a mindenek felett
@@ -481,7 +481,7 @@ hogy életem fogadd életül.
 <div style="page-break-after: always;"></div>  
 
 ## Megváltás
-`(c) 1998, Erdős`
+`(c) 1998`
 
 ```
 Magányos gyertyának
@@ -495,8 +495,8 @@ véres tükör orcája.
 `(c) 2021, Erdos`
 
 ```
-Nem könnyű a három levelű lóherék között 
-Nem könnyű a földben maradni emberek közt 
+Nem könnyű a három levelű lóherék között
+Nem könnyű a földben maradni emberek közt
 Nem könnyű palackba érmét dobni
 Nem könnyű koldusok között koldus lenni.
 
@@ -531,7 +531,7 @@ sós könnyednek mégis
 <div style="page-break-after: always;"></div>  
 
 ## Rozsdás kampó
-`(c) 2005, Erdős`
+`(c) 2005`
 ```
 
 Nem vagyok öntapadó akasztó,
@@ -543,7 +543,7 @@ ráhegesztve a vaskerítésedre.
 <div style="page-break-after: always;"></div>  
 
 ## Vas torony
-`(c) 2011, Erdős`
+`(c) 2011`
 ```
 Vas torony, hideg álom
 bomba van a kislányon.
@@ -559,7 +559,7 @@ bevarrni már nem lehet.
 <div style="page-break-after: always;"></div>  
 
 ## Véletlenül
-`(c) 2020, Erdős`
+`(c) 2020`
 
 ```
 Mi lesz majd a kövekkel,
@@ -590,7 +590,7 @@ jön.
 <div style="page-break-after: always;"></div>  
 
 ## Visszatekintés
-`(c) 2021, Erdős`
+`(c) 2021`
 
 ```
 Egy év, ezer tett
