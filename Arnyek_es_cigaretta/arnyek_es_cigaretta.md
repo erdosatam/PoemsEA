@@ -1,4 +1,4 @@
-# Gondolat a cigaretta
+# Árnyék és cigaretta
 `Erdős Attila`
 
 <div style="page-break-after: always;"></div>  
