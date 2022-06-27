@@ -42,4 +42,9 @@ minden tök süket,
 megszoktam már azt is,
 amit nem lehet.
 
+Kedvemben vagyok
+ami egy város itt.
+Az egyedülben fázva
+várok rád kicsit.
+
 ```
