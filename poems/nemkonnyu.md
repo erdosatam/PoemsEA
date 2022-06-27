@@ -2,13 +2,15 @@
 `(c) 2021, Erdos`
 
 ```
-Nem könnyű a három levelű lóherék között 
-Nem könnyű a földben maradni emberek közt 
-Nem könnyű palackba érmét dobni
-Nem könnyű koldusok között koldus lenni.
+Nem könnyű háromlevelű lóherék között.
+Nem könnyű ember lenni az emberek közt.
+Nem könnyű palackba érmét dobni,
+nem könnyű koldusok között koldus lenni.
 
-Nem könnyű termés lenni
-Nem könnyű a magból jól kikelni.
-Nem könnyű magasra nőni.
-Nem könnyű szépen elhervadni.
+
+Nem könnyű romlott földben magról kelni,
+Nem könnyű sebzetten szárra kelni.
+Nem könnyű magasságokat jól elérni.
+Nem könnyű ott szép termés lenni.
+
 ```
