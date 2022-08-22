@@ -1,5 +1,5 @@
 # Valóság
-`(c) 2022, Erdos`
+`(c) 2022`
 
 ```
 Nem foglak utolérni még ha ez is a célod,
