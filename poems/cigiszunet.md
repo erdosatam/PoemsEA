@@ -1,4 +1,4 @@
-# Cigiszünet
+# Ború és cigaretta
 `(c) 2022 Erdos`
 
 ```
