@@ -1,4 +1,4 @@
-# Árnyék és cigaretta
+# Ború és cigaretta
 `Erdős Attila`
 
 <div style="page-break-after: always;"></div>  
