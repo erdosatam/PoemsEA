@@ -21,7 +21,7 @@
 - [Kérdések](poems/kerdesek.md)
 - [Én egyedüllétem](poems/enegyedulletem.md)
 - [Itt vagyok, Anyám](poems/ittvagyok.md)
-- [Ború és cigaretta](poems/cigiszunet.md)
+- [Ború és cigaretta](poems/boru_es_cigaretta.md)
 - [Kifosztottan](poems/kifosztottan.md)
 - [Kozmikus, vagy komikus](poems/kozmikusvagykomikus.md)
 - [Már vártalak](poems/marvartalak.md)
