@@ -4,7 +4,7 @@
 <div style="page-break-after: always;"></div>  
 
 ## A kertben
-`(c) 2022`
+
 
 ```
 Mint rettegő vad
@@ -47,7 +47,6 @@ Megjöttek a vadak.
 <div style="page-break-after: always;"></div>  
 
 ## A kilincs
-`(c) 2005`
 
 ```
 A kilincs -
@@ -76,7 +75,6 @@ ott maradsz Te bezárva.
 <div style="page-break-after: always;"></div>  
 
 ## Álom
-`(c) 2010, Erdos`
 
 ```
 Olcsó karóra
@@ -94,7 +92,6 @@ végre.
 <div style="page-break-after: always;"></div>  
 
 ## Miénk
-`(c) 2020`
 ```
 Hideg telünk volt
 - és tényleg -
@@ -105,7 +102,6 @@ ennyire a miénk.
 <div style="page-break-after: always;"></div>  
 
 ## Árnyékom
-`(c) 2020`
 
 
 ```
@@ -122,7 +118,6 @@ az összes tévedésem.
 <div style="page-break-after: always;"></div>  
 
 ## Bűn
-`(c) 2016, Erdos`
 
 ```
 Csábítóbb az alma, mint a kígyó
@@ -134,7 +129,6 @@ Ott vitorlázik mélytengeri álmunk.
 <div style="page-break-after: always;"></div>  
 
 ## Cigiszünet
-`(c) 2022 Erdos`
 
 ```
 Kint, a kertben a bőr, mint rongy omlik a földre,
@@ -151,7 +145,6 @@ a szoba sarkából a lusta szeretet.
 <div style="page-break-after: always;"></div>  
 
 ## Csillagok
-`(c) 2019`
 ```
 Az ágyon ülök
 a múlt tüskéivel
@@ -167,7 +160,6 @@ hogy majd' meghalok.
 <div style="page-break-after: always;"></div>  
 
 ## Démon
-`(c) 2021`
 
 ```
 Már vasárnap is csütörtököt mondok,
@@ -200,7 +192,6 @@ hogy az Úrnak csak a vicce vagyok.
 <div style="page-break-after: always;"></div>  
 
 ## Az én egyedüllétem
-`(c) 2009`
 
 ```
 Előzékeny árnyékomban
@@ -213,7 +204,6 @@ az egyedüllét.
 <div style="page-break-after: always;"></div>  
 
 ## Engedem
-`(c) 2021`
 
 ```
 Amit Te nem, én engedem,
@@ -239,7 +229,6 @@ amit én soha sem teszek?
 <div style="page-break-after: always;"></div>  
 
 ## Feltámadás
-`(c) 2019`
 
 ```
 Kivirágzik a kín a fán
@@ -260,7 +249,6 @@ az ébredésben.
 <div style="page-break-after: always;"></div>  
 
 ## Itt vagyok, Anyám
-`(c) 2022 Erdos`
 
 ```
 Anyu, itt vagyok.
@@ -297,7 +285,6 @@ mert itt vagyok!
 <div style="page-break-after: always;"></div>  
 
 ## Jövő-kígyó menedék
-`(c) 2007`
 
 ```
 Nézz a Holdba
@@ -335,7 +322,6 @@ egy jövő-kígyó menedékből.
 <div style="page-break-after: always;"></div>  
 
 ## Kéne
-`(c) 2021 Erdős`
 ```
 Aludni kéne, de nem tudok,
 bennakadnak a tegnapok,
@@ -346,7 +332,6 @@ TV-zajban hallucinál.
 <div style="page-break-after: always;"></div>  
 
 ## Kérdések
-`(c) 2010, Erdos`
 
 ```
 Ébredésünk előtt vagy után vagyunk online,
@@ -373,7 +358,6 @@ s kegyelem az, ha ezt jó helyen tesszük.
 <div style="page-break-after: always;"></div>  
 
 ## Kifosztottan
-`(c) Erdos, 2008`
 
 ```
 Város zajában alszik a csend
@@ -390,7 +374,6 @@ s csak délibábnak néznek.
 <div style="page-break-after: always;"></div>  
 
 ## Kozmikus, vagy komikus
-`(c) Erdos 2017`
 
 ```
 Váratlan gondolatok jönnek
@@ -417,7 +400,6 @@ ezer bolygó hever a keblemen.
 <div style="page-break-after: always;"></div>  
 
 ## Levél
-`(c) 2020`
 ```
 Levelet írok
 a mindenek felett
@@ -458,7 +440,6 @@ hozzád térdelek.
 <div style="page-break-after: always;"></div>  
 
 ## Már vártalak
-`(c) 2015, Erdos`
 
 ```
 Már vártalak, hogy megmutassam
@@ -481,7 +462,6 @@ hogy életem fogadd életül.
 <div style="page-break-after: always;"></div>  
 
 ## Megváltás
-`(c) 1998`
 
 ```
 Magányos gyertyának
@@ -492,7 +472,6 @@ véres tükör orcája.
 <div style="page-break-after: always;"></div>  
 
 ## Nem könnyű
-`(c) 2021, Erdos`
 
 ```
 Nem könnyű háromlevelű lóherék között.
@@ -509,7 +488,6 @@ Nem könnyű ott szép termés lenni.
 <div style="page-break-after: always;"></div>  
 
 ## Kedvemben
-`(c) 2021`
 
 ```
 Kedvemben vagyok
@@ -562,7 +540,6 @@ várok rád kicsit.
 <div style="page-break-after: always;"></div>  
 
 ## Pipacs
-`(c) 2007, Erdos`
 
 ```
 Kinyílt a pipacs
@@ -584,7 +561,6 @@ sós könnyednek mégis
 <div style="page-break-after: always;"></div>  
 
 ## Rozsdás kampó
-`(c) 2005`
 ```
 
 Nem vagyok öntapadó akasztó,
@@ -596,7 +572,6 @@ ráhegesztve a vaskerítésedre.
 <div style="page-break-after: always;"></div>  
 
 ## Vas torony
-`(c) 2011`
 ```
 Vas torony, hideg álom
 bomba van a kislányon.
@@ -612,7 +587,6 @@ bevarrni már nem lehet.
 <div style="page-break-after: always;"></div>  
 
 ## Véletlenül
-`(c) 2020`
 
 ```
 Mi lesz majd a kövekkel,
@@ -643,7 +617,6 @@ jön.
 <div style="page-break-after: always;"></div>  
 
 ## Visszatekintés
-`(c) 2021`
 
 ```
 Egy év, ezer tett
@@ -652,7 +625,6 @@ súlyos alap felett
 vádoltam meg önmagam.
 ```
 ## Valóság
-`(c) 2022`
 
 ```
 Nem foglak utolérni még ha ez is a célod,
