@@ -1,10 +1,10 @@
 # Ború és cigaretta
+
 `Erdős Attila`
 
-<div style="page-break-after: always;"></div>  
+<div style="page-break-after: always;"></div>
 
 ## A kertben
-
 
 ```
 Mint rettegő vad
@@ -44,7 +44,7 @@ Megjöttek a vadak.
 
 ```
 
-<div style="page-break-after: always;"></div>  
+<div style="page-break-after: always;"></div>
 
 ## A kilincs
 
@@ -72,7 +72,8 @@ Halált hozó a kopása.
 Ha a szobádon élt, hát -
 ott maradsz Te bezárva.
 ```
-<div style="page-break-after: always;"></div>  
+
+<div style="page-break-after: always;"></div>
 
 ## Álom
 
@@ -89,9 +90,11 @@ felszólítás leszállásra;
 végre.
 
 ```
-<div style="page-break-after: always;"></div>  
+
+<div style="page-break-after: always;"></div>
 
 ## Miénk
+
 ```
 Hideg telünk volt
 - és tényleg -
@@ -99,10 +102,10 @@ soha nem volt
 egy évszak sem
 ennyire a miénk.
 ```
-<div style="page-break-after: always;"></div>  
+
+<div style="page-break-after: always;"></div>
 
 ## Árnyékom
-
 
 ```
 Önarcképem festem
@@ -115,7 +118,8 @@ az árnyékomban
 rám olvassa magát
 az összes tévedésem.
 ```
-<div style="page-break-after: always;"></div>  
+
+<div style="page-break-after: always;"></div>
 
 ## Bűn
 
@@ -126,9 +130,10 @@ E nehezedés embert ér,
 az éden közepén vasbeton az ér.
 Ott vitorlázik mélytengeri álmunk.
 ```
-<div style="page-break-after: always;"></div>  
 
-## Cigiszünet
+<div style="page-break-after: always;"></div>
+
+## Ború és cigaretta
 
 ```
 Kint, a kertben a bőr, mint rongy omlik a földre,
@@ -142,9 +147,11 @@ Csontjaimra lelek, majd ha belépek a házba,
 Mint betévedt légy kering majd ott
 a szoba sarkából a lusta szeretet.
 ```
-<div style="page-break-after: always;"></div>  
+
+<div style="page-break-after: always;"></div>
 
 ## Csillagok
+
 ```
 Az ágyon ülök
 a múlt tüskéivel
@@ -157,7 +164,8 @@ olyan közel tolongnak,
 hogy majd' meghalok.
 
 ```
-<div style="page-break-after: always;"></div>  
+
+<div style="page-break-after: always;"></div>
 
 ## Démon
 
@@ -189,7 +197,8 @@ hogy az Úrnak csak a vicce vagyok.
 
 
 ```
-<div style="page-break-after: always;"></div>  
+
+<div style="page-break-after: always;"></div>
 
 ## Az én egyedüllétem
 
@@ -201,7 +210,8 @@ Majd ajtót csuk mögöttem
 az egyedüllét.
 
 ```
-<div style="page-break-after: always;"></div>  
+
+<div style="page-break-after: always;"></div>
 
 ## Engedem
 
@@ -226,7 +236,8 @@ engedem így szeretlek.
 Ki teszi meg helyettem,
 amit én soha sem teszek?
 ```
-<div style="page-break-after: always;"></div>  
+
+<div style="page-break-after: always;"></div>
 
 ## Feltámadás
 
@@ -246,14 +257,15 @@ pusztul a hal a mélyben
 s egy sem lát logikát
 az ébredésben.
 ```
-<div style="page-break-after: always;"></div>  
+
+<div style="page-break-after: always;"></div>
 
 ## Itt vagyok, Anyám
 
 ```
 Anyu, itt vagyok.
 Már nem lélegzel,
-nem hallod.  
+nem hallod.
 Mégis mondom:
 itt vagyok.
 
@@ -282,7 +294,8 @@ nyújtsd a kezed,
 mert itt vagyok!
 
 ```
-<div style="page-break-after: always;"></div>  
+
+<div style="page-break-after: always;"></div>
 
 ## Jövő-kígyó menedék
 
@@ -319,9 +332,11 @@ elég, amíg mélyről nem jön
 fölháborított kiabáló állat
 egy jövő-kígyó menedékből.
 ```
-<div style="page-break-after: always;"></div>  
+
+<div style="page-break-after: always;"></div>
 
 ## Kéne
+
 ```
 Aludni kéne, de nem tudok,
 bennakadnak a tegnapok,
@@ -329,7 +344,8 @@ A csend is valamit kiabál
 TV-zajban hallucinál.
 
 ```
-<div style="page-break-after: always;"></div>  
+
+<div style="page-break-after: always;"></div>
 
 ## Kérdések
 
@@ -355,7 +371,8 @@ s kegyelem az, ha ezt jó helyen tesszük.
 
 
 ```
-<div style="page-break-after: always;"></div>  
+
+<div style="page-break-after: always;"></div>
 
 ## Kifosztottan
 
@@ -371,7 +388,7 @@ manipulált minden
 s csak délibábnak néznek.
 ```
 
-<div style="page-break-after: always;"></div>  
+<div style="page-break-after: always;"></div>
 
 ## Kozmikus, vagy komikus
 
@@ -397,9 +414,11 @@ Saját kis naprendszeremben
 ezer bolygó hever a keblemen.
 
 ```
-<div style="page-break-after: always;"></div>  
+
+<div style="page-break-after: always;"></div>
 
 ## Levél
+
 ```
 Levelet írok
 a mindenek felett
@@ -437,7 +456,8 @@ bocsánatért sírok
 hozzád térdelek.
 
 ```
-<div style="page-break-after: always;"></div>  
+
+<div style="page-break-after: always;"></div>
 
 ## Már vártalak
 
@@ -459,7 +479,7 @@ hogy életem fogadd életül.
 
 ```
 
-<div style="page-break-after: always;"></div>  
+<div style="page-break-after: always;"></div>
 
 ## Megváltás
 
@@ -469,7 +489,8 @@ Magányos gyertyának
 véres tükör orcája.
 Ő már tudta mi lesz reggel.
 ```
-<div style="page-break-after: always;"></div>  
+
+<div style="page-break-after: always;"></div>
 
 ## Nem könnyű
 
@@ -485,7 +506,7 @@ Nem könnyű magasságokat jól elérni.
 Nem könnyű ott szép termés lenni.
 ```
 
-<div style="page-break-after: always;"></div>  
+<div style="page-break-after: always;"></div>
 
 ## Kedvemben
 
@@ -537,7 +558,7 @@ várok rád kicsit.
 
 ```
 
-<div style="page-break-after: always;"></div>  
+<div style="page-break-after: always;"></div>
 
 ## Pipacs
 
@@ -558,9 +579,10 @@ sós könnyednek mégis
 örvend a pipacs.
 ```
 
-<div style="page-break-after: always;"></div>  
+<div style="page-break-after: always;"></div>
 
 ## Rozsdás kampó
+
 ```
 
 Nem vagyok öntapadó akasztó,
@@ -569,9 +591,11 @@ Inkább leszek rozsdás kampó
 ráhegesztve a vaskerítésedre.
 
 ```
-<div style="page-break-after: always;"></div>  
+
+<div style="page-break-after: always;"></div>
 
 ## Vas torony
+
 ```
 Vas torony, hideg álom
 bomba van a kislányon.
@@ -584,7 +608,8 @@ Nyílt repesz, nyílt sebek
 bevarrni már nem lehet.
 
 ```
-<div style="page-break-after: always;"></div>  
+
+<div style="page-break-after: always;"></div>
 
 ## Véletlenül
 
@@ -614,7 +639,8 @@ az utolsó dalommal?
 Ha nem is olyan véletlenül
 jön.
 ```
-<div style="page-break-after: always;"></div>  
+
+<div style="page-break-after: always;"></div>
 
 ## Visszatekintés
 
@@ -624,6 +650,7 @@ Hasznos voltam, hasztalan -
 súlyos alap felett
 vádoltam meg önmagam.
 ```
+
 ## Valóság
 
 ```
@@ -634,13 +661,13 @@ nem hallok semmit, ha te beszélsz velem.
 
 Oly süket vagyok, mint sötét éjszakán a vad,
 ha az erdő minden állata egyszerre ordít,
-s nem hallja azt ki friss húsára kívánva, 
-a fűben lapul és Francois Villont fordít. 
+s nem hallja azt ki friss húsára kívánva,
+a fűben lapul és Francois Villont fordít.
 
 Ilyen ragadozóra számítok én, ha rajta kaplak:
 miként lapulsz a parketta alatt.
 Teleüvöltöm a szobát csak hogy ne halljam,
-ahogy kitartón, Istent  fordítasz. 
+ahogy kitartón, Istent  fordítasz.
 
 Mert nem tudhatom értesz e a teremtő nyelvén,
 vagy ha igen, de gonosz vagy és tudod,
