@@ -19,7 +19,7 @@ hozzád térdelek.
 Levélben írnám,
 minden vétkemet,
 a fiókban tartom,
-senki ne lássa meg.
+a senki lássa meg.
 
 Levelet írok
 a mindenek felett
