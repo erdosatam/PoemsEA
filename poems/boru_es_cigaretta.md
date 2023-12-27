@@ -3,7 +3,7 @@
 
 ```
 Kint, a kertben a bőr, mint rongy omlik a földre,
-kétségek fűszálaira rogyva takarja el arcom homlokát.
+kétségek fűszálai takarják el az arcomat.
 Még a rigó is kirtizálja a létet, ennyi borúval a fejben.
 Mennyi kétely fog nyakon és enged el amint halad a torkon a füst,
 mit halucinogén állapotában fújok az űrbe.

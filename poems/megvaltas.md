@@ -1,9 +1,10 @@
 # Megváltás
+
 `(c) 1998, Erdős`
 
 ```
 Magányos gyertyának
 öltözött az éjjel,
 véres tükör orcája.
-Ő már tudta mi lesz reggel.
+Csak Ő tudta mi lesz reggel.
 ```
